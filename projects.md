@@ -13,15 +13,10 @@ permalink: /projects
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Blog](/blog.md){: .btn}
 
 # Projects
+## Gen Ed Finder
+[![GEOFF](http://img.youtube.com/vi/-yGUEN5KqU4/0.jpg)](http://www.youtube.com/watch?v=-yGUEN5KqU4 "Gen Ed Finder")
+
 ## Hindi App
 ![Main](../assets/img/hindiapp.png "Hindi App home screen")
 ![Family](../assets/img/family.png "Hindi App family screen")
 
-## [Meal Planner App](https://studio.code.org/projects/applab/-yrYBomLimJkGkKy0VIbaX-IIvrsLDyaAQFnsII0DPE)
-![Main2](../assets/img/mainscreen.png "Meal Planner App home screen")
-![Buttons](../assets/img/buttons.png "Meal Planner App Functions")
-
-## Photoshop
-![America](../assets/img/america.jpg "America")
-![California](../assets/img/california.jpg "California")
-![Self](../assets/img/self.jpg "Self")
