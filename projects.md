@@ -19,7 +19,6 @@ Tech Stack: Java, Python, scikit-learn, Flask, AWS, Docker, Firebase
 
 [Android GitHub](https://github.com/ksodhi2/Gen-Ed-Finder) | [REST API GitHub](https://github.com/ksodhi2/GEN-ED-FINDER-REST-API)
 
-general education courses that fufill their graduation requirements. 
 ![Home](../assets/img/geoffhome.png "Gen Ed Finder home screen")
 ![Search](../assets/img/geoffsearch.png "Gen Ed Finder Search")
 
