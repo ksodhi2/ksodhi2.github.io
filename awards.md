@@ -22,11 +22,8 @@ Out of over 250 groups, our project was named one of the few featured projects b
 ## Perfect ACT Score
 ![ACT](../assets/img/ACT.png "Perfect ACT Letter")
 
-## Valedictorian
-![Valedictorian](../assets/img/valedictorian.png "Valedictorian")
+## [U.S. Presidential Scholars](https://www2.ed.gov/programs/psp/index.html) Candidate
+![Presidential Scholars](../assets/img/presidental.png "Presidential Scholars Candidate")
 
 ## AP Scholar with Honor
 ![AP](../assets/img/AP.png "AP Scholar with Honor")
-
-## [U.S. Presidential Scholars](https://www2.ed.gov/programs/psp/index.html) Candidate
-![Presidential Scholars](../assets/img/presidental.png "Presidential Scholars Candidate")
