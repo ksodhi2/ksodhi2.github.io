@@ -34,5 +34,6 @@ Tech Stack: React, Firebase, Microsoft Azure, JavaScript, Netlify <br>
 
 ## Hindi Words and Phrases for Kids
 This android app was designed to help my younger brother and other small kids learn basic hindi words. There are 8 different categories of words the user can navigate to. When they click on a word they can hear a native hindi speaker pronouncing it.
+
 ![Main](../assets/img/hindiapp.png "Hindi App home screen")
 ![Family](../assets/img/family.png "Hindi App family screen")
