@@ -19,6 +19,8 @@ permalink: /projects
 [![GEOFF](http://img.youtube.com/vi/-yGUEN5KqU4/0.jpg)](http://www.youtube.com/watch?v=-yGUEN5KqU4 "Gen Ed Finder")
 
 ## Secure And Sure
+![Home](../assets/img/securehome.png "Secure For Sure Home Screen")
+![Add](../assets/img/secureadd.png "Secure For Sure Profile")
 [![SAS](http://img.youtube.com/vi/1nKYYJoLMGo/0.jpg)](http://www.youtube.com/watch?v=1nKYYJoLMGo "Secure And Sure")
 
 ## Hindi App
