@@ -13,11 +13,11 @@ permalink: /projects
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Blog](/blog.md){: .btn}
 
 # Projects
-## Gen Ed Finder [Video](http://www.youtube.com/watch?v=-yGUEN5KqU4)
+## Gen Ed Finder [(Overview Video)](http://www.youtube.com/watch?v=-yGUEN5KqU4)
 ![Home](../assets/img/geoffhome.png "Gen Ed Finder home screen")
 ![Search](../assets/img/geoffsearch.png "Gen Ed Finder Search")
 
-## Secure And Sure [Video](http://www.youtube.com/watch?v=1nKYYJoLMGo)
+## Secure And Sure [Overview Video](http://www.youtube.com/watch?v=1nKYYJoLMGo)
 ![Home](../assets/img/securehome.png "Secure For Sure Home Screen")
 ![Add](../assets/img/secureadd.png "Secure For Sure Profile")
 
