@@ -18,10 +18,11 @@ permalink: /projects
 ![Search](../assets/img/geoffsearch.png "Gen Ed Finder Search")
 
 ## [Secure And Sure](https://secure-and-sure.netlify.com) [(Overview Video)](http://www.youtube.com/watch?v=1nKYYJoLMGo)
+Originally intended to serve America’s homeless population, Secure&Sure provides a secure online storage platform for those who lack a reliable physical space to keep their important documents.
+
 ![Home](../assets/img/securehome.png "Secure For Sure Home Screen")
 ![Add](../assets/img/secureadd.png "Secure For Sure Profile")
 
 ## Hindi App
 ![Main](../assets/img/hindiapp.png "Hindi App home screen")
 ![Family](../assets/img/family.png "Hindi App family screen")
-
