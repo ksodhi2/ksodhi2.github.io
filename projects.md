@@ -16,6 +16,9 @@ permalink: /projects
 ## Gen Ed Finder
 [![GEOFF](http://img.youtube.com/vi/-yGUEN5KqU4/0.jpg)](http://www.youtube.com/watch?v=-yGUEN5KqU4 "Gen Ed Finder")
 
+## Secure And Sure
+[![SAS](http://img.youtube.com/vi/1nKYYJoLMGo/0.jpg)](http://www.youtube.com/watch?v=1nKYYJoLMGo "Secure And Sure")
+
 ## Hindi App
 ![Main](../assets/img/hindiapp.png "Hindi App home screen")
 ![Family](../assets/img/family.png "Hindi App family screen")
