@@ -19,8 +19,8 @@ permalink: /projects
 
 ## [Secure And Sure](https://secure-and-sure.netlify.com) [(Overview Video)](http://www.youtube.com/watch?v=1nKYYJoLMGo)
 Secure&Sure is a web app which securely stores your identity documents for retrieval at any place and any time. We originally created this to serve America’s homeless population, by providing a secure online storage platform for those who lack a reliable physical space to keep their important documents.
-Tech Stack : React, Firebase, Microsoft Azure, JavaScript
-[GitHub](https://github.com/ksodhi2/SecureAndSure)
+
+Tech Stack : React, Firebase, Microsoft Azure, JavaScript [(GitHub)](https://github.com/ksodhi2/SecureAndSure)
 
 ![Home](../assets/img/securehome.png "Secure For Sure Home Screen")
 ![Add](../assets/img/secureadd.png "Secure For Sure Profile")
