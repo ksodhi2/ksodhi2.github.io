@@ -17,7 +17,7 @@ permalink: /projects
 ![Home](../assets/img/geoffhome.png "Gen Ed Finder home screen")
 ![Search](../assets/img/geoffsearch.png "Gen Ed Finder Search")
 
-## Secure And Sure [Overview Video](http://www.youtube.com/watch?v=1nKYYJoLMGo)
+## [Secure And Sure](https://secure-and-sure.netlify.com) [(Overview Video)](http://www.youtube.com/watch?v=1nKYYJoLMGo)
 ![Home](../assets/img/securehome.png "Secure For Sure Home Screen")
 ![Add](../assets/img/secureadd.png "Secure For Sure Profile")
 
