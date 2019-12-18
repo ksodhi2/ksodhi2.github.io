@@ -21,10 +21,8 @@ Tech Stack: Java, Python, scikit-learn, Flask, AWS, Docker, Firebase <br>
 ![Search](../assets/img/geoffsearch.png "Gen Ed Finder Search")
 
 ## [Secure And Sure](https://secure-and-sure.netlify.com) [(Overview Video)](http://www.youtube.com/watch?v=1nKYYJoLMGo)
-Secure&Sure is a web app which securely stores your identification documents for retrieval at any place and any time. We originally created this to serve America’s homeless population, by providing a secure online storage platform for those who lack a reliable physical space to keep their important documents.
-
-Tech Stack: React, Firebase, Microsoft Azure, JavaScript, Netlify 
-
+Secure&Sure is a web app which securely stores your identification documents for retrieval at any place and any time. We originally created this to serve America’s homeless population, by providing a secure online storage platform for those who lack a reliable physical space to keep their important documents. <br>
+Tech Stack: React, Firebase, Microsoft Azure, JavaScript, Netlify <br>
 [GitHub](https://github.com/ksodhi2/SecureAndSure)
 
 ![Home](../assets/img/securehome.png "Secure For Sure Home Screen")
