@@ -14,6 +14,8 @@ permalink: /projects
 
 # Projects
 ## Gen Ed Finder
+![Home](../assets/img/geoffhome.png "Gen Ed Finder home screen")
+![Search](../assets/img/geoffsearch.png "Gen Ed Finder Search")
 [![GEOFF](http://img.youtube.com/vi/-yGUEN5KqU4/0.jpg)](http://www.youtube.com/watch?v=-yGUEN5KqU4 "Gen Ed Finder")
 
 ## Secure And Sure
