@@ -13,7 +13,7 @@ permalink: /projects
 
 # Projects
 ## Gen Ed Finder [(Overview Video)](http://www.youtube.com/watch?v=-yGUEN5KqU4)
-Gen Ed finder is an android app which helps UIUC students find classes to take. Users can either find classes based on course attributes or they could search for a course they prevoiusly enjoyed to find similar classes.
+Gen Ed finder is an android app which helps UIUC students find classes to take. Users can either find classes based on course attributes or they could search for a course they previously enjoyed to find similar classes.
 
 
 Tech Stack: Java, Python, scikit-learn, Flask, AWS, Docker, Firebase <br>
