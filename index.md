@@ -11,4 +11,6 @@ layout: default
 
 # About Me
 
-I am a sophomore at the University of Illinois Urbana-Champaign (UIUC) who is majoring in Computer Science. My interests include cybersecurity, machine learning, and app development.
+Hi, I'm Karan, a second year Computer Science student at The University of Illinois at Urbana-Champaign. 
+
+I enjoy working on elegant solutions that solve real problems.

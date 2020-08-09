@@ -27,6 +27,7 @@ Out of over 250 groups, our project was named one of the few featured projects b
 
 ## [U.S. Presidential Scholars](https://www2.ed.gov/programs/psp/index.html) Candidate
 Awarded to the top 0.125% graduating high school seniors.
+
 ![Presidential Scholars](../assets/img/presidental.png "Presidential Scholars Candidate")
 
 ## AP Scholar with Honor

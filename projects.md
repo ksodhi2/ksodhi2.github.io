@@ -14,7 +14,7 @@ permalink: /projects
 # Projects
 ## OCR++
 
-OCR++ is a desktop application built with C++ and Cinder that transcribes handwritten text on images with an accuracy rate of 89%. Text is predicted using a k-nearest neighbors algorithm I developed using over 10,000 training images from the [EMNIST](https://www.kaggle.com/crawford/emnist) data set. I identified areas with text on the image using the [TextBoxes](https://github.com/MhLiao/TextBoxes) neural network, and then processed images and extracted individual characters using OpenCV. Lastly I created UI using ImGui where users could select one of two options, either transcribe an image from a file (.jpg, .jpeg, .png) or use a webcam to transcribe the video stream live.
+OCR++ is a desktop application built with C++ and Cinder that transcribes handwritten text on images with an accuracy rate of 89%. Text is predicted using a k-nearest neighbors algorithm I developed using over 10,000 training images from the [EMNIST](https://www.kaggle.com/crawford/emnist) data set. I identified areas with text on the image using the [TextBoxes](https://github.com/MhLiao/TextBoxes) neural network, and then processed images and extracted individual characters using OpenCV. Lastly I created a simple UI using ImGui where users could select one of two options, either transcribe an image from a file (.jpg, .jpeg, .png) or use a webcam to transcribe the video stream live.
 
 Tech Stack: C++, Cinder, OpenCV, ImGui, TextBoxes, Catch2 <br>
 [GitHub](https://github.com/ksodhi2/OCR-Plus-Plus)
