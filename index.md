@@ -13,4 +13,4 @@ layout: default
 
 Hi, I'm Karan, a second year Computer Science student at The University of Illinois at Urbana-Champaign. 
 
-I enjoy working on elegant solutions that solve real problems.
+I enjoy working on elegant solutions that solve real problems and learning new technologies. Check out the links above to learn about what I have been up to these past few years.
