@@ -2,7 +2,7 @@
 layout: default
 ---
 
-[Resume](./assets/docs/resume.pdf){: .btn}
+[Resume](./assets/docs/Karan_Sodhi_Resume.pdf){: .btn}
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Experience](/experience.md){: .btn}
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Projects](/projects.md){: .btn}
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Awards](/awards.md){: .btn}
