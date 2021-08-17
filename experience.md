@@ -19,7 +19,7 @@ permalink: /experience
 
 Last Summer, I got the opportunity to join Verily as a Software Engineering Intern in the devices org. Specifically, I was placed on the team that is working on the [Study Watch](https://verily.com/solutions/study-watch/). 
 
-For the first part of my internship, I worked on implementing features for an Android app that would allow it to connect to Verily's smartwatch, look for updates, and if applicable download an updated firmware image from the cloud and transfer it over to the watch. The app was built with Kotlin and communicated with the watch over usb using protocol buffers.
+For the first part of my internship, I worked on implementing features for an Android app that would allow it to connect to the study watch, look for updates, and if applicable download an updated firmware image from the cloud and transfer it over to the watch. The app was built with Kotlin and communicated with the watch over usb using protocol buffers.
 
 I spent the remaining portion of my time researching [TrustZone](https://developer.arm.com/ip-products/security-ip/trustzone), a security feature for Arm Cortex processors, and developing embedded firmware to show how TrustZone could be used to securely read, write, and store cryptographic keys on the watch. 
 
