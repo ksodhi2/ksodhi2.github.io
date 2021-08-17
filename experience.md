@@ -12,6 +12,18 @@ permalink: /experience
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[LinkedIn](https://www.linkedin.com/in/ksodhi2){: .btn}
 
 # Experience
+
+## Verily (Google Life Sciences)
+### Software Engineering Intern, Devices
+#### May 2021 - Aug. 2021
+
+Last Summer, I got the opportunity to join Verily as a Software Engineering Intern in the devices org. Specifically, I was placed on the team that is working on the [Study Watch](https://verily.com/solutions/study-watch/). 
+
+For the first part of my internship, I worked on implementing features for an Android app that would allow it to connect to Verily's smartwatch, look for updates, and if applicable download an updated firmware image from the cloud and transfer it over to the watch. The app was built with Kotlin and communicated with the watch over usb using protocol buffers.
+
+I spent the remaining portion of my time researching [TrustZone](https://developer.arm.com/ip-products/security-ip/trustzone), a security feature for Arm Cortex processors, and developing embedded firmware to show how TrustZone could be used to securely read, write, and store cryptographic keys on the watch. 
+
+
 ## NetJets
 ### Software Engineering Intern, Crew Innovation Lab
 #### June 2020 - Aug. 2020
